@@ -14,7 +14,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200903_fripiers.xml</String>
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200427_commis_visites.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -34,7 +34,147 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200807_fontaine_Molard.xml</String>
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200405_secr%C3%A9taire_Consistoire.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200326_%C3%A9chenillage.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200326_chasse.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200827_lazaret.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17201217_prix_viande.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200608_r%C3%A8glement_fabricants_bas.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200824_gardes_notables_ports_Rh%C3%B4ne.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200805_%C3%A9trangers_peste.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -74,7 +214,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200605_ouverture_portes_sermont.xml</String>
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17201209_secr%C3%A9taires_Etat.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -94,7 +234,207 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200821_chasse.xml</String>
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17201211_%C3%A9lection_CC.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17201118_taux_vin.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17201203_droit_sceau.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17201028_histoire_Gen%C3%A8ve.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17201118_sortie_bl%C3%A9.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17201119_droit_entr%C3%A9e_cochon_mort.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17201004_peste_deuil.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17201001_muletiers.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200911_potiers_terre.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17201018_garde_villages.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200903_fripiers.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -115,6 +455,186 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200817_importations_marchandises.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200904_%C3%A9trangers_peste.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17201004_peste_dimanche.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17201014_fermiers_halles.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17201018_police_des_%C3%A9trangers.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17201015_police_%C3%A9trangers.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200928_f%C3%A9ries_vendanges.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17201012_emprise_vendanges.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17201001_tablature_lazaret.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_17200910_je%C3%BBne.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -174,6 +694,66 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200821_chasse.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200807_fontaine_Molard.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200605_ouverture_portes_sermont.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200807_r%C3%A8glement_potiers_%C3%A9tain.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -214,26 +794,6 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200805_%C3%A9trangers_peste.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200730_gage_pasteur_Neydens.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -255,26 +815,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200628_f%C3%A9ries_moissons.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200326_chasse.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -354,67 +894,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200326_%C3%A9chenillage.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200427_commis_visites.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200503huissier_commis_visites.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>6/ssrq-oxygenxmleditor-framework/ssrq_tei.framework/SSRQ-TEI/SSRQ-TEI</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>../GitHub/GE_5/in_editorial_process/1720/SDS_GE_5_17200405_secr%C3%A9taire_Consistoire.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
